@@ -1,7 +1,7 @@
 ﻿# CreditExplain AI - Explainable Credit Risk Assessment API
 
 ## Overview
-An intelligent FastAPI that provides credit risk assessments with detailed explanations using explainable AI principles. Built to demonstrate modern MLOps practices and explainable AI in fintech and banking industry.
+An intelligent FastAPI that provides credit risk assessments with detailed explanations using explainable AI principles. Built to demonstrate explainable AI in the fintech and banking industry.
 
 ```
 📦 
@@ -121,4 +121,5 @@ Generate credit score improvement plan
 Siddharth Mohapatra
 
 Northeastern University - IE 7374 MLOps Lab 3
+
 
