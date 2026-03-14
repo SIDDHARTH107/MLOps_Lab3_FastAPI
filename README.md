@@ -57,7 +57,7 @@ An intelligent FastAPI that provides credit risk assessments with detailed expla
 ## Installation
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone <this-repo-url>
 cd MLOps_Lab3_FastAPI
 
 # Create virtual environment
