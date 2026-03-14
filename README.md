@@ -41,12 +41,12 @@ An intelligent FastAPI that provides credit risk assessments with detailed expla
 ```
 
 ## Features
-- 🎯 Comprehensive credit scoring with 7 key factors
-- 🧠 Explainable AI - understand why scores are what they are
-- 📊 Factor-by-factor breakdown with impact analysis
-- 💡 Actionable improvement suggestions
-- 🛣️ Month-by-month credit improvement roadmaps
-- 📝 Automated API documentation
+- Comprehensive credit scoring with 7 key factors
+- Explainable AI - understand why scores are what they are
+- Factor-by-factor breakdown with impact analysis
+- Actionable improvement suggestions
+- Month-by-month credit improvement roadmaps
+- Automated API documentation
 
 ## Tech Stack
 - **Framework**: FastAPI
