@@ -58,7 +58,7 @@ An intelligent FastAPI that provides credit risk assessments with detailed expla
 ```bash
 # Clone repository
 git clone <your-repo-url>
-cd credit-explain-api
+cd MLOps_Lab3_FastAPI
 
 # Create virtual environment
 python -m venv venv
