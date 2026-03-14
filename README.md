@@ -207,14 +207,6 @@ Generate credit score improvement plan
     "Pre-approved for premium rate"
   ]
 }
-Response headers
- access-control-allow-credentials: true 
- access-control-allow-origin: http://localhost:8000 
- content-length: 2157 
- content-type: application/json 
- date: Sat,14 Mar 2026 01:28:21 GMT 
- server: uvicorn 
- vary: Origin
 ```
 
 ## Author
