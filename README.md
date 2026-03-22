@@ -90,10 +90,10 @@ Generate credit score improvement plan
   "applicant": {
     "name": "Siddharth Mohapatra",
     "pan": "ABCDE1234F",
-    "phone": "+919861364100",
+    "phone": "+9198613XYZXY",
     "email": "siddharth.m33@email.com",
     "age": 25,
-    "monthly_income": 50000
+    "monthly_income": 50XYZABC
   },
   "credit_history": {
     "cibil_score": 720,
